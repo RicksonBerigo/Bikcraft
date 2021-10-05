@@ -1,0 +1,27 @@
+.intro-portfolio {
+    background: url('/assets/img/bg-portfolio.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.quote__portfolio {
+    padding: 60px 0;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.quote__portfolio p {
+    font-size: var(--normal-font-size);
+    line-height: var(--line-height-medium);
+    text-align: center; 
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.quote__portfolio cite {
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-bold);
+    font-style: normal;
+    float: right;
+}

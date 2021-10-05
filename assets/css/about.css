@@ -1,0 +1,28 @@
+.intro-about {
+    background: url('/assets/img/bg-sobre.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    padding-top: 60px;
+}
+
+.mission__about p {
+    font-size: var(--normal-font-size);
+    line-height: var(--line-height-medium);
+    margin-bottom: 1rem;
+    padding-right: 60px;
+}
+
+.value__item {
+    font-size: var(--normal-font-size);
+    line-height: var(--line-height-big);
+    font-family: var(--secondary-font);
+    padding-right: 60px;
+}
+
+.team {
+    padding-top: 40px;
+}
