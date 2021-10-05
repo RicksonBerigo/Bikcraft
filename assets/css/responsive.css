@@ -80,7 +80,7 @@
     .intro {
         margin-top: 0 !important;
         padding-top: 60px !important;
-        background: url('/assets/img/bg-mobile.jpg') !important;
+        background: url('../img/bg-mobile.jpg') !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important;
